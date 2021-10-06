@@ -1,0 +1,3 @@
+git add adds files to the Git index, which is a staging area for objects prepared to be commited.
+git commit commits the files in the index to the repository, git commit -a is a shortcut to add all the modified tracked files to the index first.
+git push sends all the pending changes to the remote repository to which your branch is mapped (eg. on GitHub).
